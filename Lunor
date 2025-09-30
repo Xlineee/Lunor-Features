@@ -1,0 +1,28 @@
+Fisch
+ Auto Farm
+	-Auto Cast
+	-Auto Shake 
+	-Auto Drop Bobber
+	-Auto Reel
+	-Instant Reel
+	-Fishing Zone (All Island)
+	-Event Overrides (Scylla, Kraken, Megalodon, Etc...)
+	-Auto Bestiary (Beta)
+	-Auto Angler (Still Testing)
+	-Auto Use Bait
+	-Auto Perfect Catch
+	-Remove Cutscene (For Secret Cutscene)
+	-Adjustable Auto Shake Delay
+	-Adjustable Auto Cast Power
+	-Adjustable Auto Cast Delay
+	-Auto Shake Method (Navigation, Click, ReplicateSignal)
+	-Auto Reel Method (Instant, Follow Bar, Super Mode)
+	-Event Override - Rod (Basically just use Rod you choose when the event appears)
+	
+ Items
+	-Check Info Your inventory
+	-Auto Open Held Item (Basic Crate, Bait Crate)
+	-Auto Open Held Skin Crate
+	-Buy Items And Amount
+	-Auto Buy Rod (Some Rod with Quest can be buy it without doing the Quest)
+	-
