@@ -24,5 +24,89 @@ Fisch
 	-Auto Open Held Item (Basic Crate, Bait Crate)
 	-Auto Open Held Skin Crate
 	-Buy Items And Amount
-	-Auto Buy Rod (Some Rod with Quest can be buy it without doing the Quest)
-	-
+	-Auto Buy Rod (Some Rod can be Bypass it Without doing some Quest)
+	-Buy Skin Crates and Amount
+	-Buy Merlin Products (Enchant Relic, Luck)
+	-Auto Buy Luck Merlin
+	-Auto Sell (Adjustable with Delay)
+	-Auto Sell Held Item
+	-Auto Favorite (Mutation, Rarity, Fishes)
+	-Auto Appraise
+	-Auto Enchant
+	-Auto Use Totems (Use totem at Day or Night)
+	-Auto Purchase Totem 
+	-Auto Sundial (For Spawn Event like Scylla
+	-Auto Meteor (collect items from Meteor)
+	-Auto Sunken Treasure (Experimental)
+	-Auto Repair & Collect Treasure
+	-Auto Place Crab Cage
+
+ Teleport
+	-Teleport to Player
+	-Teleport to Fishing Zones
+	-Teleport to Events
+	-Teleport to Areas
+	-Teleport to Spots
+	-Teleport to Interactables
+	-Teleport to NPCs
+ Advance Teleport
+	-Auto Captain Ahab
+	-Auto Drill Obsidian)
+	-Auto Drill Lava Crystal (layer 1)
+	-Auto Drill Ice Crystal (layer 2)
+
+ Misc
+	-Oxygen (Disable Gas, Oxygen, Temperature
+	-Auto Leave At Level
+	-Instant Interact
+	-Adjustable JumpPower and WalkSpeed
+	-Loop Through Titles (Others can see this, Just for fun)
+	-NoClip
+	-Loop Through Rods (Others can see this, Just for fun)
+	-Emotes
+	-Adjustble TideBreaker Speed
+	-Anti Staff (Automatically leave the game when Staff join)
+	-Platform (Walk on water, Walk under water, Portable Platform)
+	-Auto Gift (Loop Gift)
+	-Boats (Adjustable Speed, Acceleration, Boat Fling, Etc..)
+	-Server (Server Hop, Join use Server Code)
+
+ Webhook
+	-Adjustable Webhook
+
+ Visual
+	-Season Tracker
+ 	-Enable Fish Radar
+	-Enable FullBright
+	-Lure Visual (Bad for Perfomance)
+	-Auto Predictor
+	-Customizable Water Color
+	-Wave Speed
+	-Set FPS Cap
+	-Boost FPS
+	-Remove Other Player (Client Sided for FPS)
+	-Remove Fish Model
+	-Hide UI
+	-Hide Caught
+	-Low Rendering Screen (Customizable The Color)
+	-Hide Debris
+	-Disable Rain
+	-Disable Fog
+	-Clear All Terrain (Improve FPS)
+	-Disable Waves (Improve FPS)
+	-Disable Aurora Borealis Sky (Improve FPS)
+	-Hide LocalPlayer Identity (Customizable Color)
+	-Hide All Player Identities
+	-Player ESP
+	-Player Glow
+	-Cornes ESP
+	-Zone ESP
+	-Zone Glow
+	-Zone Corners
+	-Bobber Visuals
+	-Bobber Glow
+	-Bobber ESP
+	-Rod Skin (Need Improvement)
+	-Config (A Few Executor not support this)
+	
+	
