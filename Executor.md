@@ -5,16 +5,17 @@ PC Executor
 - [Seliware](https://seliware.com/)
 - [Volcano](https://volcano.wtf/)
 - [Velocity](https://getvelocity.lol/)
+- [Bunni](https://discord.com/invite/9DPW2G22cF)
 
 Android Executor
 - [Delta](https://deltaexploits.gg/)
-- [Krnl](https://krnl.cat/)
 - [Ronix](https://ronixstudios.com/)
-- [Codex](https://codex.lol/)
 - [Cryptic](https://getcryptic.net/)
 
 IOS Executor
 - [Delta](https://deltaexploits.gg/)
-- [Krnl](https://krnl.cat/)
 
+MAC Executor
+- [Hydrogen](https://www.hydrogen.lat/)
+- [Macsploit](https://www.raptor.fun/)
 Credit : [Weao.xyz](https://weao.xyz/)
