@@ -1,3 +1,45 @@
 
-Forge
-  
+Forge 
+ Auto Farm
+     Auto farming
+        -Auto swing(swings both pickaxe and weapon)
+        -Auto parry(parries the attack enemies throw, doesnt work 100% of the time)
+        -Auto go to ore(goes to the kres selected)       
+        -Auto go to mob(goes to the mob selected)
+        -Auto Claim index(claims the index automatically)
+        -desync(makes your position not show to others
+     Bosses
+        -Boss info(shows all of boss info--time before next party can be created,status,etc....)
+        -Auto Start & Go to boss(makes a boss party and tp to the boss)
+        -Spam Start boss(spawns many boss instead of one, limit 16 per person in the server)
+        -Adjustable character y axis,z axiz,x axis position when farming 
+     Auto Farming Settings
+        -Set camera to ores & mobs(set you pov to the mob/ore you are farming)
+        -Return on toggling off(returns to you original position before turning on auto go to ore/mob)
+        -Dodge on attack(Goes up when enemy attacks to prevent damage)
+        -Disable Animation(Disables all kind of Animation like running, dashing, etc.....)
+        -Adjustable tween speed
+        -Movement type(Walk, Tween, Teleport)
+        -Avoid Player(stops floating/flying when any player is near)
+        -Visualize Avoid player(visually avoid player)
+        -Adjustable avoid player distance
+      -Mining Settings
+        -Selectable Mining regoin(the regoin you want to mine in)
+        -Adjustable character y axis,z axis,x axis position when farming
+        -Selectable Priority Rocks(Main rocks you wanna mine)
+        -Selectable Alternative Rocks(If no main rock is present mine the rocks selected here)
+        -Auto kill nearby mobs(kills nearby mobs near the rock you are mining)
+        -Selectable nearby mobs(the mob you select will only be killed, ignores the rest)
+        -Adjustable nearby mobs distance
+        -Auto Cancel Ores(mines the rock halfway if any of the ores you selected is present then only mines it fully)
+        -Disable Auto Cancel Rocks(Disables the auto cancel ores feature for the rocks selected)
+      -Combat Settings
+        -Selectable Mob regoin(the regoin you want to kill the mobs in)
+        -Adjustable character y axis,z axis,x axis position when farming 
+        -Selectable Priority Enemy(The mobs you mainly want to kill)
+        -Selectable Alternative Enemy(When no main enemies it shift to enemies selected here)
+     Auto Quest
+
+
+
+
