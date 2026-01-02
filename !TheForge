@@ -39,6 +39,61 @@ Forge
         -Selectable Priority Enemy(The mobs you mainly want to kill)
         -Selectable Alternative Enemy(When no main enemies it shift to enemies selected here)
      Auto Quest
+        -Selectable Quest NPCs(Select the NPC whose quest you want to complete)
+        -Auto Quest(turn on to do the quest u selected earlier)
+ Items
+     Auto Calculate(Calculates inv value, no. of essences, ores, and active bosses)
+     Forge
+        -Auto Forge(Automatically forges for you)
+        -Open Forge UI(opens the forge ui)
+     Pickaxe 
+        -Auto Equip Best Pickaxe(equips the best pickaxe from your inv)
+        -Auto Purchase Best pickaxe(buys the best pickaxe depending on the cash on your acc)
+        -Selectable Pickaxe(Select a pick you wanna buy)
+        -Purchase Pickaxe(buys the Pickaxe selected earlier)
+     Potions
+      -Manual
+        -Selectable Potion(Select a potion from dropdown)
+        -Potion Amount(write the number of potion you wanna buy)
+        -Purchase Potion(purchases the potion of selected and the amount u picked)
+      -Auto
+        -Selectable Potion(select a potion you want to buy)
+        -Potion Amount(buys the amount of potion u wrote)
+        -Auto buy Potion(buys the selected potion if you dont have any left)
+        -Selectable Auto consume potion(select the potion you want to consume automatically)
+        -Auto Consume Potion(consumes the selected potion if the buff isnt active)
+     Selling-Items
+      -Ores-Basic
+        -Selectable Ores(pick the ores u want to sell)
+        -Selectable Rarity(pick the rarity of ores you want to sell)
+        -Ores Max Price(all ores below the price you put will be sold)
+        -Ores Minimum Chance(all ores below the chance you pur will be sold)
+        -Only sell if stash is full(only sells the ores if stash is full)
+        -Auto Sell ores(sells the ores u selected earlier from any of the 4 method)
+      -Ores-Advanced
+        -Selectable ores to keep(Select the ores you want to keep some amount)
+        -Selectable ores to sell(Select the same ore as the one you keep)
+        -Keep amount(it will keep the amount you pick while sell the rest if gets)
+        -Only Sell if stash is full(only sells if stash is full)
+        -Auto sell ores Advanced(sells the selected ores)
+      -Materials
+        -Selectable Materials(Select the Materials you wanna sell)
+        -Materials Max price(all Materials below the selected price will be sold)
+        -Only Sell if stash is full(only sells if stash is full)
+        -Auto Sell Materials(
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
