@@ -7,8 +7,8 @@ Forge
         -Auto go to ore(goes to the kres selected)       
         -Auto go to mob(goes to the mob selected)
         -Auto Claim index(claims the index automatically)
-        -desync(makes your position not show to others
-     Bosses
+        -desync(makes your position not show to others)
+      Bosses
         -Boss info(shows all of boss info--time before next party can be created,status,etc....)
         -Auto Start & Go to boss(makes a boss party and tp to the boss)
         -Spam Start boss(spawns many boss instead of one, limit 16 per person in the server)
@@ -80,7 +80,93 @@ Forge
         -Selectable Materials(Select the Materials you wanna sell)
         -Materials Max price(all Materials below the selected price will be sold)
         -Only Sell if stash is full(only sells if stash is full)
-        -Auto Sell Materials(
+        -Auto Sell Materials(Sells the selected Materials)
+      -Runes-Basic
+        -Selectable Runes(Select the runes u want to sell)
+        -Only sell if stash is open(only sells the selected stuff if stash is full)
+        -Auto sell runes(sells the selected runes)
+      -Runes-Advanced
+        -Selectable First trait pool
+        -Adjustable Percentage of First Trait pool
+        -Selectable Second Trait Pool
+        -Adjustable Percentage of Second Trait pool
+        -Only Sell if stash is full(only sells if stash is full)
+        -Auto Sell runes advanced(auto sells the selected runes)
+     Selling-Equipments
+      -Armour
+        -Selectable Armour(Select the armour you want to sell from your inv)
+        -Auto Sell armour(sells the selected armour)
+      -Pickaxe 
+        -Selectable Pickaxe(Select the pick u wanna sell)
+        -Auto sell Pickaxe(sells the selected Pickaxe)
+      -Weapon
+        -Selectable Weapon(Select the Pickaxe u wanna sell)
+        -Auto Sell Weapon(sells the selected weapon)
+     Race
+        -Race info(how many race spins left,Race Name, Race chances)
+        -Selectable Race(Select the race you want to roll for)
+        -Auto Reroll race(rerolls your current race until the one you selected)
+     Enhance 
+        -Selectable Equipment(Select the Equipment u want to enhance)
+        -Only Enhance if 100%(Enhances the equipment if only have 100% of succeeding)
+        -Adjustable Target Level(Select the level till u wanna upgrade)
+        -Auto Enhance(Starts the process with the features u turn on earlier)
+ Teleports
+        -Location Info(shows coordinates of current location)
+        -Selectable Saved location(Select any of the custom location u selected to tp to the location)
+        -Save Name(Put a name to make a location u can Teleport)
+        -Save loaction(Saves the current the location with the name u put earlier)
+        -Delete Saved location(Select a location and delete it)
+        -Copy Coordinates(Copies the current coordinates)
+     Teleports
+        -Selectable Players(Select a player you want to tp to)
+        -Selectable NPCs(Select a NPC you want to tp to)
+        -Selectable Interactable(Select a Interactable you want to tp to)
+        -Selectable Shops(Select a Shop to tp to)
+ Misc
+     Character
+        -Auto mRejoin(Automatically Rejoins if gets disconnected/kicked)
+        -Selectable Worlds(1,2,3...)
+        -Auto Go to world(Auto goes to the selected world, must have it unlocked)
+        -No clip(Makes you phase through walls and etc)
+        -Auto Run(Automatically makes you run)
+        -Redeem all codes(Redeem all available codes)
+        -Discover all locations(Discovers all locations)
+     Safety
+        -Selectable Flagged Ranks(Select the ranks which can possibly get you banned, like staff, mods,....)
+        -Anti Staff(Automatically kicks you when staff joins)
+        -Anti Flagged Ranks(kicks if any of the selected ranks joins)
+        -Auto Kick if above player(Kicks you if the server exceeds the number of player you selected)
+        -Adjustable Server Limit(Select the numbers of player u want to be max in the server)
+        -Hide Identity(His Character, levels, money on the acc)
+     Server
+        -Server Hop to low player(server hops to low player server, Only Pc)
+        -Auto Server Hop(Server hops when the selected condition is met, needs to be alone in a server and needs a auto load config)
+        -Select when to server hop(Like If no rocks is present)
+        -Select rocks for when to server hop(the rocks which u want to hop if no present)
+        -Adjustable Time until hop(Time until next server hop)
+ Webhook
+     Webhook
+        -Webhook URL(Input you webhook URL)
+        -Enable Webhook(Enables the webhook)
+        -Send Text(Sends a Text to the webhook URL for testing)
+     Webhook Settings
+        -Webhook Info(If webhook is connected when using config, u need to re-enable "enable webhook")
+      -Stats
+        -Send Stats(Sends Inventory and Player Stats)
+        -Adjustable Stats Interval(Adjust the time you to send stats)
+      -Events
+        -Disconnect/Kick(Sends a message when disconnected/kicked)
+        -Stuck/Idle(Sends a text if the character is idle or no new stuff happened)
+        -Adjustable Idle Time(Sends a message if no new stuff in the selected time)
+      -Notification 
+        -Selectable Ores(Select the ores you want to be notified About)
+        -Notify Ores(Notify about the selected ores)
+        -Selectable Materials(Select the Materials you want to be notified about)
+        -Notify Materials(Get notified for the selected Materials)
+ Visuals
+     FPS & More
+
 
 
 
