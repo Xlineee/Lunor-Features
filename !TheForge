@@ -199,9 +199,15 @@ Forge
         -Config Contents(Put the exported config contents like the text or the link)
         -Import Config(Imports the config contents with the name u put)
      Configurations
-
-
-
+        -Config Name(Put the name for your config you are about to make)
+        -Selectable Config List(Select a pre-existing config)
+        -Create a Config(Creates a config with the settings u turned on with the name u choosed)
+        -Load a config(Loads the Selected pre-existing config)
+        -Save a New config(Changes the contents of one config)
+        -Delete a Config(Deletes the Selected Saved Config)
+        -Refresh the Config List(Refreshes the config list)
+        -Auto Load Config(Auto loads the selected config everytime you execute the script, Click again to turn it off)
+        -Auto Load config info(Shows the current auto loading config)
 
 
 
