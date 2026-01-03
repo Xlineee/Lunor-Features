@@ -166,13 +166,39 @@ Forge
         -Notify Materials(Get notified for the selected Materials)
  Visuals
      FPS & More
-
-
-
-
-
-
-
+        -Full Bright(Makes you screen Fully bright)
+        -Disable Camera Shake(Disables Camera shake after breaking a rock)
+        -Set FPS cap
+        -Boost FPS(makes the graphics bad for good FPS)
+        -Delete Map(Deletes everything except the character for massive FPS boost)
+        -Select Rendering Colour(Select the Colour you want you whole Screen to be)
+        -Low rendering Screen(Makes you screen the colour you selected earlier)
+     ESP
+      -Players 
+        -Players ESP(Makes all players Visible with name)
+        -Ores ESP(Makes all ores Visible with name)
+      -Rocks
+        -Rocks ESP(Makes alls selected rocks visible with name)
+        -Selectable Rocks(Select the rocks you want to see)
+        -Adjustable Rocks ESP Distance
+      -Enemies
+        -Enemies ESP(Makes all selected Enemies Visible with name)
+        -Selectable Enemies(Select the Enemies you wamt to see)
+        -Adjustable Enemies ESP Distance
+ Configs
+     Gradients & Themes
+        -Selectable Choose theme(Select the color as main)
+        -Selectable Starting Gradient(The colour at the start)
+        -Selectable Ending Gradient(The colour at the end)
+        -Copy Gradient Config(Makes the same script with the selected themes & Gradient)
+     Import/Export Config(Any feature from this section does not work at all)
+        -Selectable Config(Select the config which you want to export)
+        -Export As Text(Exports the config as text)
+        -Export As Link(Exports the config as link)
+        -Config name(Put a name for the config you are about to import)
+        -Config Contents(Put the exported config contents like the text or the link)
+        -Import Config(Imports the config contents with the name u put)
+     Configurations
 
 
 
